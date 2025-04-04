@@ -6,4 +6,8 @@ public class Kalkulator {
         return a+b;
     }
 
+    public static Double oduzmi(Double a, Double b){
+        return a-b;
+    }
+
 }
