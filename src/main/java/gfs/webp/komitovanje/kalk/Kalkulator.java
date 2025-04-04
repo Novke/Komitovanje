@@ -10,4 +10,8 @@ public class Kalkulator {
         return a-b;
     }
 
+    public static Double podeli(Double a, Double b){
+        return a/b;
+    }
+
 }
